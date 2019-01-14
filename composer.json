@@ -1,0 +1,19 @@
+{
+    "name": "rul/iuphp",
+    "description": "study",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liuyu",
+            "email": "1011533875@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Iu\\App\\":"src/Iu/App"
+        }
+    }
+}
